@@ -10,7 +10,7 @@ int amount=0,count=0;
 int b=0,by=0,s=0,c=0;
 while(true)
 {
-System.out.println("      !!!!!!!!WELCOME TO SUFIAN PARKING SYSTEM!!!!!!!!");
+Sys.out.println("      !!!!!!!!WELCOME TO SUFIAN PARKING SYSTEM!!!!!!!!");
 System.out.println("CHARGES FOR PARKING:-");
 System.out.println("1}Bike->150rs");
 System.out.println("2}Bicycle->50rs");
